@@ -1,0 +1,68 @@
+<toolbox>
+
+
+    <category name="Advance" colour="160">
+        <block type="advance_task">
+        </block>
+
+    </category>
+
+    <category name="Basic" colour="160">
+
+        <block type="basic_led16x8">
+        </block>
+        <block type="basic_delay">
+        </block>
+        <block type="basic_forever">
+        </block>
+
+    </category>
+
+    <category name="Basic" colour="160">
+
+        <block type="basic_led16x8">
+        </block>
+        <block type="basic_delay">
+        </block>
+        <block type="basic_forever">
+        </block>
+
+    </category>
+
+    <category name="Basic" colour="160">
+
+        <block type="basic_led16x8">
+        </block>
+        <block type="basic_delay">
+        </block>
+        <block type="basic_forever">
+        </block>
+
+    </category>
+
+    <category name="Basic" colour="160">
+
+        <block type="basic_led16x8">
+        </block>
+        <block type="basic_delay">
+        </block>
+        <block type="basic_forever">
+        </block>
+
+    </category>
+
+    <category name="Basic" colour="160">
+
+        <block type="basic_led16x8">
+        </block>
+        <block type="basic_delay">
+        </block>
+        <block type="basic_forever">
+        </block>
+
+    </category>
+
+
+
+
+</toolbox>
